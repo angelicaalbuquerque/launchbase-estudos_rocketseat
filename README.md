@@ -1,9 +1,9 @@
 <div align="center">
-    <img src=".github\launchbase.png" width="300px"/>
+    <img src=".github\launchbase-logo.png" width="300px"/>
 </div>
 
 <h2 align="center">
-   Estudos no Bootcamp LaunchBase | <img alt="badge rocketseat" align="center" src=".github\rocket.svg">
+   Estudos no Bootcamp LaunchBase | <img alt="badge rocketseat" align="center" src=".github\badge-rocket.svg">
 </h2>
 
 <p align="center">
@@ -172,7 +172,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 
 ## 📝 Notas de aula
 
-- Anotações das aulas estão disponíveis <a href="#">aqui</a>.
+- Anotações das aulas estão disponíveis <a href="https://github.com/angelicaalbuquerque/launchbase-estudos_rocketseat/blob/main/notes.md" target="_blank">aqui</a>.
 
 ## 💻 Desafios
 
