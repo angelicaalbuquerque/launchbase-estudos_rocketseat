@@ -48,7 +48,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 01 | Iniciando com a programação Web</summary>
+  <summary>Módulo 01 | Iniciando com a programação Web 🛠️</summary>
   <p>Nesse módulo iremos conhecer os primeiros conceitos de programação web, linguagem de programação e JavaScript. Iremos configurar nosso ambiente de desenvolvimento e construir nosso primeiro programa.</p>
   
   <p>Ferramentas: JavaScript, NodeJS, entre outras.</p>
@@ -74,7 +74,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 02 | Iniciando no Front-end</summary>
+  <summary>Módulo 02 | Iniciando no Front-end 🚧</summary>
 
   <p>Nesse módulo vamos aprender o que é front-end, HTML, CSS, JavaScript no cliente e criar nosso primeiro projeto: um website para mostrar seu perfil e seus trabalhos como dev.</p>
   
@@ -82,7 +82,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 03 | Iniciando no Back-end</summary>
+  <summary>Módulo 03 | Iniciando no Back-end 🚧</summary>
 
   <p>Agora vamos criar um servidor e levar nosso website para o Back-end para utilizar ferramentas necessárias a fim de ter uma página mais dinâmica.</p>
   
@@ -90,7 +90,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 04 | Gym Manager: Controle de Academia</summary>
+  <summary>Módulo 04 | Gym Manager: Controle de Academia 🚧</summary>
 
   <p>Nesse módulo vamos iniciar um projeto que irá gerenciar instrutores e membros de uma academia. Aprenderemos conceitos mais aprofundados de: Lógica de programação, Back-end e Front-end. Entre outro assuntos de lógica, nós estudaremos aqui sobre tratamento e formatação de data. Indo para o back-end, conheceremos um pouco mais do Node.js, aprenderemos o que é e como fazer um CRUD, verbos HTTP, rotas da aplicação e muito mais. No Front-end estudaremos o que são formulários, como fazer animações em CSS, o que é a DOM e como manipular ela e outros assuntos pertinentes.</p>
 
@@ -99,7 +99,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 05 | Persistindo os Dados da Aplicação</summary>
+  <summary>Módulo 05 | Persistindo os Dados da Aplicação 🚧</summary>
 
   <p>Vamos salvar os dados de maneira mais segura? Aprenderemos a persistir os dados do Gym Manager, criando um banco de dados em Postgres. Vamos aprender o que é SQL e como utilizar para fazer as operações básicas de um CRUD. Além disso, teremos mais conceitos de HTML, CSS e JavaScript.</p>
 
@@ -108,7 +108,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 06 | LaunchStore</summary>
+  <summary>Módulo 06 | LaunchStore 🚧</summary>
 
   <p>Nesse módulo vamos iniciar uma nova aplicação que será um marketplace, estilo Mercado Livre, OLX, mas com nossas próprias funcionalidades e requisitos. Aplicaremos tudo que aprendemos até aqui e muito mais, como por exemplo, conceitos de modelagem de dados, constraints em SQL, Promises no JavaScript, async/await, formatação de moeda e muito mais.</p>
 
@@ -117,7 +117,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 07 | Trabalhando com upload de imagens</summary>
+  <summary>Módulo 07 | Trabalhando com upload de imagens 🚧</summary>
 
   <p>Nesse módulo veremos um assunto muito comum e básico que vemos em inúmeros aplicativos que é a rotina de upload de imagens. Aqui iremos aprender como fazer upload no back-end e front-end através do desafio de criar um sistema gerenciador de imagens. Para o aperfeiçoamento na hora de vasculhar erros, utilizaremos o VSCode debug, uma nova maneira de debugar o código. Aprenderemos a usar funções no Nunjucks e além do mais, criaremos procedures e triggers no SQL.</p>
 
@@ -126,7 +126,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 08 | Listando os Produtos da LaunchStore</summary>
+  <summary>Módulo 08 | Listando os Produtos da LaunchStore 🚧</summary>
 
   <p>Vamos criar a listagem de produtos da LaunchStore. Aprenderemos a fazer reuso de código do front-end, criando funções com Nunjucks. Faremos uma estrutura de filtro de pesquisas e categorias para a página de pesquisa do nosso e-commerce.</p>
 
@@ -135,7 +135,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 09 | Cadastro de usuários</summary>
+  <summary>Módulo 09 | Cadastro de usuários 🚧</summary>
 
   <p>Nesse módulo vamos aprender uma necessidade que é essencial para controle de um sistema que são os usuários desse sistema. Vamos começar essa funcionalidade criando a tabela de usuários do sistema, formulário de cadastro, máscaras de inputs, expressões regulares e validações no front-end e back-end. Aplicaremos uma estratégia de mostrar alertas personalizados no front-end, no caso de erro ou sucesso de alguma ação no nosso sistema. Vamos revisar features do ES6 que aprendemos até aqui e aprender outras.</p>
 
@@ -144,7 +144,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 10 | Controle de sessão de usuários</summary>
+  <summary>Módulo 10 | Controle de sessão de usuários 🚧</summary>
 
   <p>Vamos aprender como controlar a sessão de usuário, criando login e logout, recuperação de senha. Manteremos os dados do usuário logado durante toda a aplicação, mesmo que haja mudança de rota/página. Iremos aprender a criar estratégia de cascade no SQL, envio de emails e outras necessidades para o controle de usuário.</p>
 
@@ -153,7 +153,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 11 | Conceitos Avançados de programação</summary>
+  <summary>Módulo 11 | Conceitos Avançados de programação 🚧</summary>
 
   <p>Neste módulo aprenderemos a organizar nosso projeto aplicando o padrão MVC. Aprenderemos estratégias avançadas de arquitetura de código. Vamos aprender uma rotina para automatizar a criação de conteúdos para o banco de dados. Vamos fazer animações avançadas com a biblioteca do Lottie e finalizar o pedido de compra de um produto, enviando um email para o vendedor.</p>
 
@@ -162,7 +162,7 @@ Desenvolvemos diversos projetos ao logo do treinamento, além de desafios para c
 </details>
 
 <details>
-  <summary>Módulo 12 | Funcionalidades extras para a Launchstore</summary>
+  <summary>Módulo 12 | Funcionalidades extras para a Launchstore 🚧</summary>
 
   <p>Neste módulo vamos reforçar os conhecimentos aprendidos até aqui e desenvolveremos novas lógicas, telas e rotinas para criarmos um carrinho de compras e um sistema gerenciador de pedidos. Vamos aprender a criar um menu dropdown com HTML e CSS e aprenderemos uma rotina de Soft Delete no SQL e na aplicação.</p>
 
@@ -176,11 +176,12 @@ Anotações das aulas estão disponíveis <a href="https://github.com/angelicaal
 
 ## 💻 Desafios
 
-Os desafios dos módulos estão disponíveis aqui.
+Os desafios dos módulos estão disponíveis <a href="https://github.com/angelicaalbuquerque/launchbase-desafios_rocketseat" target="_blank">aqui</a>.
 
 ## 🚀 Tecnologias
 
-O projeto foi desenvolvido com as seguintes tecnologias:
+<details>
+<summary>Veja a lista das tecnologias utilizadas durante o treinamento:</summary>
 
 - Chocolatey;
 - Visual Studio Code;
@@ -205,6 +206,8 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Nodemailer;
 - Lottie;
 - MVC.
+
+</details>
 
 ## 📬 Entre em contato!
 
