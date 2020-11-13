@@ -6,12 +6,10 @@
 
 const idade = 17
 
-if (idade >= 18) {
- console.log("Você pode entrar.");
-} else {
+if (!(idade >= 18) || (idade === 17)) {
   console.log("Você não pode entrar.")
+} else {
+  console.log("Você pode entrar.");
 }
 
-if (idade === 17) {
-  console.log("Volte quando fizer 18 anos.")
-}
+"Volte quando fizer 18 anos."
