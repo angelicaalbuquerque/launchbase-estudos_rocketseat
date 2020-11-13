@@ -40,16 +40,51 @@ typeof: Quando coloco console.log(typeof nome), ele me retorna o tipo daquela va
 
 If
 
+```bash
 Se (verdadeiro) {
 //faz alguma coisa
 } senão {
 //faz outra coisa
 }
+```
 
-```bash
+```javascript
 if (media > 7) {
-  console.log(`A média da turma foi ${media.toFixed(1)}! Parabéns!`)
+  console.log(`A média da turma foi ${media.toFixed(1)}! Parabéns!`);
 } else {
-  console.log(`A média da turma foi ${media.toFixed(1)}! Precisam estudar mais!`)
+  console.log(
+    `A média da turma foi ${media.toFixed(1)}! Precisam estudar mais!`,
+  );
 }
 ```
+
+#### Operadores de comparação
+
+| Operador |         Significado          |
+| :------: | :--------------------------: |
+|   ">"    |            Maior             |
+|   "<"    |            Menor             |
+|   ">="   |        Maior igual a         |
+|   "<="   |        Menor igual a         |
+|   "=="   |           Igual a            |
+|  "==="   |    Igual e do mesmo tipo     |
+|   "!="   |         Diferente de         |
+|  "!=="   | Diferente, inclusive do tipo |
+
+#### Operadores lógicos
+
+| Operador |                                       Significado                                       |
+| :------: | :-------------------------------------------------------------------------------------: |
+|   "&&"   | "E" - as duas condições devem ser verdadeiras para que a condição final seja verdadeira |
+|    `     |                                                                                         | ` | "OU" - uma das condições deve ser verdadeira para que a condição final seja verdadeira. |
+|   "!"    |                                "NÃO" - nega uma condição                                |
+
+#### Operadores aritméticos
+
+| Operador |        Significado        |
+| :------: | :-----------------------: |
+|   "\*"   |       Multiplicação       |
+|   "/"    |          Divisão          |
+|   "%"    | Resto da divisão (módulo) |
+|   "+"    |           Soma            |
+|   "-"    |         Subtração         |
